@@ -1,0 +1,27 @@
+
+In general original dataset consist of 1013 rows of answers to the questionnare data the following questions about worries of
+American people about earthquake and the expected massive earthquake called the "Big One"(every of which got corresponding column in dataset):
+
+In general, how worried are you about earthquakes?
+
+How worried are you about the Big One, a massive, catastrophic earthquake?
+
+Do you think the "Big One" will occur in your lifetime?
+
+ÄgeHave you ever experienced an earthquake?
+
+Have you or anyone in your household taken any precautions for an earthquake (packed an earthquake survival kit, prepared an evacuation plan, etc.)?
+
+How familiar are you with the San Andreas Fault line?
+
+How familiar are you with the Yellowstone Supervolcano?
+
+Age
+
+What is your gender?
+
+How much total combined money did all members of your HOUSEHOLD earn last year?
+
+US Region
+
+as no thorough analysis is required to understand the very meaning of the data, no redundand desctiption is delivered.

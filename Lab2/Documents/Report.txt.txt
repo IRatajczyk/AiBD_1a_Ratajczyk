@@ -1,0 +1,4 @@
+Raport:
+W związku z egzotycznym formatowaniem, tytuły kolumn oryginalnego pliku csv były zbyt nieczytelne dlatego piwerszym krokiem w ich przetwarzaniu było nadanieo nowych nazw kolumn.
+Dane w związku z danym zadaniem zostały wyczyszczone z rekordów zawierających NaNy.
+Natępnie stworzono nowy plik chosen_data.csv zawierający wybrane tabele z wiekiem ankietowanych, ich płcią oraz ososbistą predykcją na temat tego czy Big One nastąpi za ich życia.
